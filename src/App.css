@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+.btn-primary {
+  background-color: red;
+  border-color: red;
+}
+
+.navbar .nav-link {
+  color: red;
+}
+
+.table-primary,
+.table-primary > th,
+.table-primary > td {
+  background-color: red;
+}
+
+input[type="text"] {
+  border-color: red;
+}
+
+.brand-text {
+  font-weight: bold;
+  font-style: italic;
+}
